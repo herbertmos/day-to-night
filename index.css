@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(102, 236, 236);
+}
+header{
+    text-align: center;
+}
+section{
+   display: block;
+   margin: auto;
+    width: 35%;
+    background-color: white;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    box-shadow: 10px 10px 40px;
+    
+}
+#picture{
+    margin: auto;
+    border-radius: 360px;
+    background-color: black;
+    padding: 170px;
+    width: 1%;
+    background-image: url(pexels-pixabay-33044.jpg);
+    background-size: cover;
+    background-position: center center;
+    
+    
+}
+.pai{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.616);
+
+}
+#horas{
+    text-align: center;
+    font-size: 27px;
+}
