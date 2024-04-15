@@ -2,11 +2,16 @@
 
 body{
     background-color: rgb(102, 236, 236);
+    
 }
 header{
     text-align: center;
+    max-width: 1900px;
+    min-width: 360px;
 }
 section{
+    max-width: 1900px;
+    min-width: 360px;
    display: block;
    margin: auto;
     width: 35%;
@@ -18,6 +23,7 @@ section{
     
 }
 #picture{
+    
     margin: auto;
     border-radius: 360px;
     background-color: black;
